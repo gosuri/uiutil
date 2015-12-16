@@ -4,7 +4,7 @@ import (
 	"io"
 	"os"
 
-	"github.com/gosuri/uiutil/vendor/speakeasy"
+	speakeasy "github.com/gosuri/uiutil/_vendor/speakeasy"
 )
 
 // DefaultPrompter is the default prompter for the package
